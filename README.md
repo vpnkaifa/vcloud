@@ -35,6 +35,4 @@
 ![截图](/admin/20240205165549.png "截图")
 ![截图](/admin/20240205165549.png "截图")
 
-[@qudacloud](https://t.me/qudacloud) / [@tg频道 https://t.me/vpn_update](https://t.me/vpn_update)
 
-**咨询讨论 请联系 telegram ：@qudacloud**
