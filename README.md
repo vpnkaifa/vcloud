@@ -5,34 +5,16 @@
 # 服务器端和客户端都支持多语言。国际化出海无压力。ads买量及新媒体推广欢迎交流。
 # TG：QT315
 # http://www.489486.cyou/
-
-以下是部分截图，详情请看项目中的截图：
-![截图](/windows/20240205152935.png "截图")
-![截图](/windows/window登录页.png "截图")
-![截图](/windows/20240205152935.png "截图")
-![截图](/windows/20240205154546.png "截图")
-![截图](/windows/20240205154052.png "截图")
-![截图](/mac/20240205164641.png "截图")
-![截图](/mac/20240205165420.png "截图")
-![截图](/app-ver01/20240314135631.png "截图")
-![截图](/app-ver01/20240314132724.jpg "截图")
-![截图](/app-ver01/20240314132505.png "截图")
-![截图](/app-ver01/20240314132737.jpg "截图")
-![截图](/app-ver01/20240314132441.png "截图")
-![截图](/app-ver01/20240314132417.png "截图")
-![截图](/app-ver01/20240314132300.png "截图")
-![截图](/app-ver01/20240314133815.jpg "截图")
-![截图](/app-ver01/20240314133829.jpg "截图")
-![截图](/app/ab331410cb0b4a3f0392464e95337b2.jpg "截图")
-![截图](/app/c4585a06d738d8b46b34ebe73d9f6d0.jpg "截图")
-![截图](/app/d6988d1fd7324928bf16f214aa0a2f2.jpg "截图")
-![截图](/app/e078c863fbd9aff3f2e153cb51c941b.jpg "截图")
-![截图](/admin/20240314133240.png "截图")
-![截图](/admin/20240205212256.png "截图")
-![截图](/admin/20240205212250.png "截图")
-![截图](/admin/20240205212239.png "截图")
-![截图](/admin/20240205212225.png "截图")
-![截图](/admin/20240205165549.png "截图")
-![截图](/admin/20240205165549.png "截图")
-
-
+![11](https://github.com/user-attachments/assets/ce301df2-52df-4212-8b2a-6092842477f0)
+![10](https://github.com/user-attachments/assets/d397ca69-fbc7-4c58-9bc3-7cc144d66acb)
+![9](https://github.com/user-attachments/assets/2af303e0-355c-455c-95ac-3d1cdf3f6d10)
+![8](https://github.com/user-attachments/assets/d1ad8074-51df-490b-a4dc-68c52bdb0df0)
+![2](https://github.com/user-attachments/assets/9fb2c611-cacc-480e-889b-efed37290403)
+![3](https://github.com/user-attachments/assets/3475e257-cef6-448c-aa36-96acc5ff1cfb)
+![1](https://github.com/user-attachments/assets/6171316a-5d02-447b-8277-a767724c5ef5)
+![7](https://github.com/user-attachments/assets/d94ad34e-3189-48d2-a780-d5a4bd502100)
+![6](https://github.com/user-attachments/assets/ab2f37f7-49b5-488f-939e-40cdf97aa223)
+![5](https://github.com/user-attachments/assets/5099b56b-2ce2-42d9-86d1-b27cb51e525b)
+![4](https://github.com/user-attachments/assets/42abc22c-70df-4542-98f2-7d9779dca41e)
+# TG：QT315
+# TG：QT315
